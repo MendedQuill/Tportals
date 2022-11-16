@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x97C46AA9c81a1B39d1Ecc21B7173820356d03f4D",
+  "SCAN_LINK": "https://polygonscan.com/token/0x97C46AA9c81a1B39d1Ecc21B7173820356d03f4D",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "T-Portals",
+  "SYMBOL": "TPORTALS",
+  "MAX_SUPPLY": 193,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tportals",
+  "SHOW_BACKGROUND": true
+}
